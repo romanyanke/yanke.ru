@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/romanyanke@3x.91c3a321.jpg"
   },
   {
-    "revision": "4a5bc54aa58e4a146d0195d299f7d66d",
+    "revision": "ac756b85883f8370269707d8d9c8e8e9",
     "url": "/index.html"
   }
 ];
