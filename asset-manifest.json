@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/static/css/main.a9aad89e.chunk.css",
-    "main.js": "/static/js/main.fa737908.chunk.js",
-    "main.js.map": "/static/js/main.fa737908.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.ae08a089.js",
-    "runtime-main.js.map": "/static/js/runtime-main.ae08a089.js.map",
-    "static/js/2.52d000bc.chunk.js": "/static/js/2.52d000bc.chunk.js",
-    "static/js/2.52d000bc.chunk.js.map": "/static/js/2.52d000bc.chunk.js.map",
+    "main.css": "/static/css/main.96a680f0.chunk.css",
+    "main.js": "/static/js/main.86d6b6b3.chunk.js",
+    "main.js.map": "/static/js/main.86d6b6b3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.05172f0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.05172f0b.js.map",
+    "static/js/2.f122f4e3.chunk.js": "/static/js/2.f122f4e3.chunk.js",
+    "static/js/2.f122f4e3.chunk.js.map": "/static/js/2.f122f4e3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4ad375b352352dc26e17fe84aac409ca.js": "/precache-manifest.4ad375b352352dc26e17fe84aac409ca.js",
+    "precache-manifest.e786f6b45c4f2222bce2c7211bb8b243.js": "/precache-manifest.e786f6b45c4f2222bce2c7211bb8b243.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.a9aad89e.chunk.css.map": "/static/css/main.a9aad89e.chunk.css.map",
+    "static/css/main.96a680f0.chunk.css.map": "/static/css/main.96a680f0.chunk.css.map",
+    "static/js/2.f122f4e3.chunk.js.LICENSE": "/static/js/2.f122f4e3.chunk.js.LICENSE",
+    "static/media/github.541c62d3.svg": "/static/media/github.541c62d3.svg",
+    "static/media/instagram.cf84a367.svg": "/static/media/instagram.cf84a367.svg",
+    "static/media/linkedin.e862f966.svg": "/static/media/linkedin.e862f966.svg",
     "static/media/romanyanke.jpg": "/static/media/romanyanke.9787671f.jpg",
     "static/media/romanyanke@2x.jpg": "/static/media/romanyanke@2x.543a21b8.jpg",
-    "static/media/romanyanke@3x.jpg": "/static/media/romanyanke@3x.91c3a321.jpg"
+    "static/media/romanyanke@3x.jpg": "/static/media/romanyanke@3x.91c3a321.jpg",
+    "static/media/telegram.cf4176c7.svg": "/static/media/telegram.cf4176c7.svg",
+    "static/media/twitter.73c3cbef.svg": "/static/media/twitter.73c3cbef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae08a089.js",
-    "static/js/2.52d000bc.chunk.js",
-    "static/css/main.a9aad89e.chunk.css",
-    "static/js/main.fa737908.chunk.js"
+    "static/js/runtime-main.05172f0b.js",
+    "static/js/2.f122f4e3.chunk.js",
+    "static/css/main.96a680f0.chunk.css",
+    "static/js/main.86d6b6b3.chunk.js"
   ]
 }
